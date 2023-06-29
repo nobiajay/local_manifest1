@@ -2,8 +2,8 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/oneplus/CPH2381" name="phhgsi/android_device_oneplus_CPH2381.git" remote="github" revision="main" />
- <project path="vendor/oneplus/CPH2381" name="nobiajay/android_vendor_oneplus_CPH2381.git" remote="github" revision=main" />
- <project path="kernel/oneplus/sm6375" name="nobiajay/android_kernel_sm6375.git" remote="github" revision="main" />
+ <project path="device/oneplus/CPH2381" name="phhgsi/android_device_oneplus_CPH2381.git" remote="github" revision="master" />
+ <project path="vendor/oneplus/CPH2381" name="nobiajay/android_vendor_oneplus_CPH2381.git" remote="github" revision=master" />
+ <project path="kernel/oneplus/sm6375" name="nobiajay/android_kernel_sm6375.git" remote="github" revision="master" />
 
 </manifest>
