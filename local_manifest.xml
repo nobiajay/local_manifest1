@@ -5,6 +5,7 @@
  <project path="device/oneplus/CPH2381" name="phhgsi/android_device_oneplus_CPH2381.git" remote="github" revision="main" />
  <project path="device/oneplus/CPH2381-kernel" name="ronitkrshah/android_device_oneplus_CPH2381-kernel.git" remote="github" revision="main" />
  <project path="hardware/oplus" name="LineageOS/android_hardware_oplus.git" remote="github" revision="lineage-20" />
+ <project path="kernel/oneplus/sm6375" name="OnePlusOSS/android_kernel_msm-5.4_oneplus_sm6375.git" remote="github" revision="oneplus/sm6375_s_coloros_12.1" />
  <!--Clang -->
  <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" clone-depth="1" />
 </manifest>
